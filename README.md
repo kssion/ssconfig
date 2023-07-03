@@ -1,0 +1,2 @@
+# ssconfig
+SS Config
